@@ -1,10 +1,18 @@
-🔄 Kofi Ampomah
-👨‍🎓 PhD Student & Graduate Teaching Assistant
-💻 Department of Computer Science
-🎓 The University of Alabama
-💻 UA-SPECTRAL Lab
+# 👋 Hi, I’m Kofi Ampomah  
 
-<!---
-Ampomah-Kofi/Ampomah-Kofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 PhD Student & Graduate Teaching Assistant  
+💻 Department of Computer Science, The University of Alabama  
+🔬 Researcher @ UA-SPECTRAL Lab (Advisor: Prof. Tu Le)  
+
+### 👀 Interests  
+- Human-Centered AI & Human-Computer Interaction  
+- Data Science & Machine Learning  
+- Software Security & Privacy  
+
+### 🌱 Current Work  
+- Researching privacy and data collection in Discord bot ecosystems  
+- Teaching undergraduate computer science labs  
+
+### 📫 Contact  
+📧 kampomah@crimson.ua.edu  
+📧 ampomahkofi4@gmail.com  
