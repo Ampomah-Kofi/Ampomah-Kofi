@@ -10,7 +10,7 @@
 - Usable security and privacy for emerging technologies (e.g., IoT, AI, XR)
 
 ### 🌱 Current Work  
-- Researching privacy and data collection in Discord bot ecosystems  
+- Researching Privacy and Data Collection in  Bot ecosystems  
 - Teaching undergraduate computer science labs  
 
 ### 📫 Contact  
