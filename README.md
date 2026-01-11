@@ -5,9 +5,9 @@
 🔬 Researcher @ UA-SPECTRAL Lab (Advisor: Prof. Tu Le)  
 
 ### 👀 Interests  
-- Human-Centered AI & Human-Computer Interaction  
+- Human-centered Computing Human-centered AI
 - Data Science & Machine Learning  
-- Software Security & Privacy  
+- Usable security and privacy for emerging technologies (e.g., IoT, AI, XR)
 
 ### 🌱 Current Work  
 - Researching privacy and data collection in Discord bot ecosystems  
